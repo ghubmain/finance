@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "Q5BFc6iCUcHR5239qFS2VtFYOxRyWGpsGzg9wmld6rHzEqQRwwF4S0Az5aK/LfI2kzHqOxFibu1U/izcO1ZwZQ==",
+  "dgSpecHash": "AIetoCCWmf6mhApqYBn9Hia/4LvOsh5q23q6JYReLdBoL3RGcoPTXnn378TtNhnjNjFAq2DAlvxqJhbblHbZ6w==",
   "success": true,
   "projectFilePath": "C:\\Source\\Repos\\finance\\TickerTape\\TickerTape\\TickerTape.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\matt.trader\\.nuget\\packages\\dynamiclanguageruntime\\1.2.3\\dynamiclanguageruntime.1.2.3.nupkg.sha512",
+    "C:\\Users\\matt.trader\\.nuget\\packages\\ironpython\\2.7.10\\ironpython.2.7.10.nupkg.sha512",
+    "C:\\Users\\matt.trader\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\matt.trader\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\matt.trader\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\matt.trader\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\matt.trader\\.nuget\\packages\\system.codedom\\4.7.0\\system.codedom.4.7.0.nupkg.sha512",
+    "C:\\Users\\matt.trader\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
+    "C:\\Users\\matt.trader\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\matt.trader\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\matt.trader\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "C:\\Users\\matt.trader\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\matt.trader\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\matt.trader\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TickerTape", "TickerTape\TickerTape.csproj", "{5AEC061A-AB0F-44C1-BF77-502DE86098CE}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python", "Python\Python.pyproj", "{012E5DEB-D7E6-4C8C-A3A1-02EC7D03AE55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{5AEC061A-AB0F-44C1-BF77-502DE86098CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AEC061A-AB0F-44C1-BF77-502DE86098CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AEC061A-AB0F-44C1-BF77-502DE86098CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{012E5DEB-D7E6-4C8C-A3A1-02EC7D03AE55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{012E5DEB-D7E6-4C8C-A3A1-02EC7D03AE55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
