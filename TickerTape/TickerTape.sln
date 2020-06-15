@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TickerTape", "TickerTape\TickerTape.csproj", "{5AEC061A-AB0F-44C1-BF77-502DE86098CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TickerTape", "TickerTape\TickerTape.csproj", "{5AEC061A-AB0F-44C1-BF77-502DE86098CE}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python", "Python\Python.pyproj", "{012E5DEB-D7E6-4C8C-A3A1-02EC7D03AE55}"
 EndProject
